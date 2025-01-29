@@ -48,4 +48,4 @@ let arr3=arr2.concat(fruits9)
 
 console.log(arr3);
 
-arr3.forEach((index,arr)=>{console.log(`${index}--${arr}`)})
+arr3.forEach
